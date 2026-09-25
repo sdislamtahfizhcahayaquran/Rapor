@@ -1,5 +1,5 @@
 /* Rapor PTS document geometry copied from CQlass renderer. */
-.rpv-paper-wrap{overflow:auto;padding:10px 0 22px}
+.rpv-paper-wrap{overflow:auto;padding:10px 0 22px;display:block;background:transparent;gap:0;align-items:initial}
 .rpv-paper{position:relative;width:210mm;height:297mm;min-height:297mm;max-height:297mm;margin:0 auto 18px;background:#fff;color:#111;padding:18mm 14mm 15mm 14mm;box-shadow:0 8px 30px rgba(0,0,0,.12);font-family:Tahoma,Verdana,'Segoe UI',sans-serif;font-size:11px;line-height:1.3;box-sizing:border-box;overflow:hidden}
 .rpv-paper *{box-sizing:border-box;font-family:Tahoma,Verdana,'Segoe UI',sans-serif!important}
 .rpv-paper table{min-width:0!important;max-width:100%!important}
